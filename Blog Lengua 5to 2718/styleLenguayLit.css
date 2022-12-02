@@ -1,0 +1,93 @@
+body{
+    background-image:url("img/LiteratureBackground.png") ;
+    background-size: contain;
+    
+}
+
+main{
+    background-color: white;
+    padding: auto;
+    width: 60%;
+    margin: auto;
+    height: 100%;
+    padding-bottom:110px ;
+}
+
+h1{
+    font-family: 'DynaPuff', cursive; 
+    text-align:center ;
+    font-size: 1cm;
+    padding-top: 60px;
+}
+
+
+
+
+.MFyBorges{
+    background-color: rgb(149, 198, 248);
+    max-height: 300px;
+    width: 75%;
+    margin: auto;
+    border-radius: 100px 100px 100px 100px;
+    border-bottom: 14px solid  rgb(84, 158, 231);
+    display: flex;
+    padding: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 200%  ;
+    font-weight: normal;
+}
+
+
+
+h2{
+    font-family: 'DynaPuff', cursive; 
+    text-align:center ;
+    font-size: xx-small;
+    padding-top: 60px;
+
+}
+
+.TpsMFyBorges>nav{
+    font-family: 'DynaPuff', cursive;
+    font-size: 0.65cm ; 
+    text-align:center ;
+    list-style-type: disc;
+    padding: 10px;
+}
+
+a{
+    padding: 10px ;
+}
+
+div.BlancoTemas{
+    background-color: white;
+    height: 40px;
+}
+
+.SiguientesTps1{
+    background-color: rgb(149, 198, 248);
+    max-height: 300px;
+    width: 75%;
+    margin: auto;
+    border-radius: 100px 100px 100px 100px;
+    border-bottom: 14px solid  rgb(84, 158, 231);
+    display: flex;
+    padding: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 200%  ;
+    font-weight: normal;
+}
+
+.SiguientesTps2{
+    background-color: rgb(149, 198, 248);
+    max-height: 300px;
+    width: 75%;
+    margin: auto;
+    border-radius: 100px 100px 100px 100px;
+    border-bottom: 14px solid  rgb(84, 158, 231);
+    display: flex;
+    padding: 40px;
+    font-family: 'Caveat', cursive;
+    font-size: 200%  ;
+    font-weight: normal;
+}

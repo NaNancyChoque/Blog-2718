@@ -1,0 +1,42 @@
+body{
+    background-image:url("img/LiteratureBackground.png") ;
+    background-size: contain;
+    
+}
+
+main{
+    background-color: white;
+    padding: auto;
+    width: 60%;
+    margin: auto;
+    height: 100%;
+    padding-bottom:110px ;
+}
+
+
+h1{
+    font-family:'DynaPuff'; 
+    text-align:center ;
+    font-size: 1cm;
+    text-align: center;
+}
+
+
+nav{
+    font-family: 'DynaPuff';
+    font-size: 0.65cm ; 
+    text-align: center ;
+}
+
+
+a{
+    padding: 10px ;
+}
+
+
+div{
+    margin:auto;
+    width: 85%;
+    text-align: justify;
+    font-size: larger;
+}
